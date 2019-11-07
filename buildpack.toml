@@ -1,4 +1,6 @@
 # Buildpack ID and metadata
+api = "0.2"
+
 [buildpack]
 id = "salesforce.puppeteer"
 name = "Puppeteer Cloud Native Buildpack"
